@@ -1,0 +1,26 @@
+Teste de Breusch-Godfrey para autocorrelação de primeira-ordem
+MQO, usando as observações 2018-11246 (T = 9229)
+Variável dependente: uhat
+
+                 coeficiente   erro padrão   razão-t    p-valor 
+  --------------------------------------------------------------
+  const           5.14823      0.856016        6.014   1.88e-09  ***
+  Procedimento   −0.00390883   0.000587705    −6.651   3.08e-011 ***
+  motivo          0.826190     0.0174952      47.22    0.0000    ***
+  sexo           −0.839036     0.232348       −3.611   0.0003    ***
+  porte          −0.647507     0.0947325      −6.835   8.71e-012 ***
+  Classe          0.657766     0.0979770       6.713   2.01e-011 ***
+  Status         −1.11116      0.239623       −4.637   3.58e-06  ***
+  Rme            −0.00865829   0.000913221    −9.481   3.14e-021 ***
+  uhat_1          0.992164     0.00159600    621.7     0.0000    ***
+
+  R-quadrado não-ajustado = 0.976698
+
+Estatística de teste: LMF = 386458.672091,
+com p-valor = P(F(1,9220) > 386459) = 0
+
+Estatística alternativa: TR^2 = 9013.948277,
+com p-valor = P(Qui-quadrado(1) > 9013.95) = 0
+
+Ljung-Box Q' = 8946.43,
+com p-valor = P(Qui-quadrado(1) > 8946.43) = 0

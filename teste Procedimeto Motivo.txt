@@ -1,0 +1,11 @@
+Teste da diferença entre Procedimento e motivo
+Teste dos Sinais de Wilcoxon
+Hipótese nula: a diferença da mediana é zero
+
+  n = 9217
+  W+ = 4.25855e+007, W- = 6285.5
+  (zero diferenças: 12, empate não-nulo: 665)
+  Valor esperado = 2.12959e+007
+  Variância = 1.49169e+007
+  z = 5512.24
+  P(Z > 5512.24) = 0

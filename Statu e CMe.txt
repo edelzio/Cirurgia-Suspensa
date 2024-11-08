@@ -1,0 +1,4 @@
+Para as variáveis 'Status' e 'CmeAjust'
+Coeficiente de correlação de posto de Spearman (rô) = 0.00580468
+De acordo com a hipótese nula de não correlação:
+ t(9227) = 0.557591, com p-valor bicaudal 0.5771
